@@ -1,0 +1,7 @@
+This repository holds the contents of your sites/all directory, which is the only place you need to modify things in a drupal install. To initialize git, first install it (not sure of the method of this on linux, it may be native, as it was developed by linus torvalds to work on linux). Then, from your local sites/all directory, type these commands.
+git init
+git remote add origin git@github.com:dmachat/jitg.git
+
+Now you have a local instance called master, and a remote instance called origin. You can look up basic git commands, but the first big ones you will use are git add (followed by a "." if you want to add every file in the directory, or the specific file or folder, do this if you add files), git commit -a (or again, file or folder name) -m "the message for your commit), git pull origin, which grabs the instance from github and merges it with your local, and git push, which does the same thing in reverse.
+
+I won't attempt to explain merging and branching right now, but you can find much information about git if you want to learn the fancy stuff I don't know yet!
