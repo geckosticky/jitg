@@ -5,3 +5,16 @@ git remote add origin git@github.com:dmachat/jitg.git
 Now you have a local instance called master, and a remote instance called origin. You can look up basic git commands, but the first big ones you will use are git add (followed by a "." if you want to add every file in the directory, or the specific file or folder, do this if you add files), git commit -a (or again, file or folder name) -m "the message for your commit), git pull origin, which grabs the instance from github and merges it with your local, and git push, which does the same thing in reverse.
 
 I won't attempt to explain merging and branching right now, but you can find much information about git if you want to learn the fancy stuff I don't know yet!
+
+**** Requirements
+
+super simple and clean...sorta like a glorified splash page....sorta like www.therassle.com
+
+would like:
+
+1. the band logo/font in black background
+2. tabs for shows, merch (tshirt, 7-inch   can use bigcartel.com), photos, video, contact
+3. link to FB, twiiter, MS
+4. email opt in (link it to FB would be cool too)
+5. download Free EP
+6. Link to Insound.com (or other retail partner) to pre-order the 7-inch EP
